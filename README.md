@@ -1,5 +1,8 @@
 # Kategori Sayfası
 
+[![Design](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://assets.materialup.com/uploads/36a8cf4c-9909-4901-af30-ba4251593144/attachment.png)
+
+
 | Özellik        | Açıklama                                                       |
 | -------------- | -------------------------------------------------------------- |
 | Design Url     | https://www.uplabs.com/posts/categories-list-mobile-app-ui-kit |
